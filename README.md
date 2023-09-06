@@ -2,6 +2,8 @@
 
 # Checking input number
 
+This code creates a simple web application that receives a number from the user via a prompt window, and based on the entered number, displays a message corresponding to the season of the year.
+
 Using the "switch" statement.
 
 After receiving the number from the user:
